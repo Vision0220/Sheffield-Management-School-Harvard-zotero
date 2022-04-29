@@ -1,7 +1,8 @@
 # Sheffield-Management-School-Harvard-zotero
-This is a third party(that is me) support for the University of Sheffield Management School Harvard reference standard formation. In many cases(mainly the articles and books), this format performs the same as the exported formation of StarPlus. 
+This is a third party(that is me) support for the [University of Sheffield Management School Harvard reference standard formation](https://www.librarydevelopment.group.shef.ac.uk/referencing/harvard.html) . In many cases(mainly the articles and books), this format performs the same as the exported formation of StarPlus. 
 
 It's not guaranteed, and not officially certificated. If you want to use this, I would recommend you use StarPlus to check several citations before implementing this repository. 
+
 
 ## Example
 ### 1-Article
